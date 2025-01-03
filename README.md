@@ -5,7 +5,8 @@
 3. To run project enter command 'node server.js' OR 'nodemon server.js' with nodemon
 4. If the project runs successfully, the terminal will display: "Server is running on port 3000" and "Successfully connected to the database!"
 
-### I have used MongoDB Cloud so that you can get actual results for below endpoints also i have attached screenshot with email of postman endpoints testing result
+### I have used MongoDB Cloud so that you can get actual results for below endpoints
+## also i have attached screenshot with email of postman endpoints testing result
 
 ### API Endpoints to test on Postman
 - `http://localhost:3000/api/v1/quiz/createQuiz`: Create a new quiz Api.
